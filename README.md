@@ -25,6 +25,8 @@ $ bash setup.sh
 
 `setup.sh` will automatically generate` docker-compose.yml` and `config.yml` which are necessary for executing this tool according to your environment such as existence of the GPU.
 
+
+
 ## Example usage
 
 
